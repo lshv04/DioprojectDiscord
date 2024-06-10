@@ -1,5 +1,6 @@
 
-![Blue Futuristic Technology Presentation](https://github.com/lshv04/DioprojectDiscord/assets/169161949/96be3ee2-fd32-44fc-8248-0c497891f648)
+![Blue Futuristic Technology Presentation (1)](https://github.com/lshv04/DioprojectDiscord/assets/169161949/df1233b2-e8d9-45a7-aabd-3673c587d5e8)
+
 
 # Projeto DIO CSS Discord
 
@@ -14,7 +15,7 @@ Media Queries: Implementadas para garantir que o site se adapte perfeitamente a 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://aluramidi-curso.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://lshv04.github.io/DioprojectDiscord/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
